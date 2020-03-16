@@ -29,7 +29,8 @@ def selection_sort(arr):
             smallest_index = next_index
 
         # TO-DO: swap
-        arr[cur_index], arr[smallest_index] = arr[smallest_index], arr[cur_index]
+        arr[cur_index], arr[smallest_index] = arr[smallest_index], arr[
+            cur_index]
 
     return arr
 
