@@ -1,6 +1,6 @@
 # TO-DO: Complete the selection_sort() function below
 
-'''
+"""
 while i is less than or equal to len(list) - 1: 
 smallest_value = current value
 
@@ -11,7 +11,7 @@ check if smallest value is less than next value (index + 1)
         smallest_value = next_value
     Repeat until end of list: 
         swap indices 
-'''
+"""
 
 
 def selection_sort(arr):
