@@ -1,5 +1,4 @@
 # TO-DO: Complete the selection_sort() function below
-
 """
 while i is less than or equal to len(list) - 1: 
 smallest_value = current value
