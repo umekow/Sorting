@@ -1,15 +1,15 @@
 # TO-DO: Complete the selection_sort() function below
 """
-while i is less than or equal to len(list) - 1: 
+while i is less than or equal to len(list) - 1:
 smallest_value = current value
 
 check if smallest value is less than next value (index + 1)
-    if true: 
+    if true:
         move to next value
-    if value is more than next value: 
+    if value is more than next value:
         smallest_value = next_value
-    Repeat until end of list: 
-        swap indices 
+    Repeat until end of list:
+        swap indices
 """
 
 
